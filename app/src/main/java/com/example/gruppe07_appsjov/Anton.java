@@ -23,8 +23,4 @@ public class Anton extends AppCompatActivity implements View.OnClickListener {
                 Toast.LENGTH_LONG).show();
     }
 
-    @Override
-    public void onPointerCaptureChanged(boolean hasCapture) {
-
-    }
 }
